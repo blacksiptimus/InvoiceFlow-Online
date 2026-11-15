@@ -1,12 +1,17 @@
-# Oralis
+# InvoiceFlow
 
-Privacy policy for the Oralis app, published by Aqyrix. The app id is `com.aqyrix.oralis`.
+Privacy policy, support, and marketing pages for the InvoiceFlow app, published by Aqyrix Technologies. The app id is `com.aqyrix.invoiceflow.pro`.
+
+- Privacy: [index.html](index.html)
+- Support: [support/index.html](support/index.html)
+- Marketing: [marketing/index.html](marketing/index.html)
+- Terms: [terms/index.html](terms/index.html)
 
 ## Delete your account
 
-You can delete an Oralis account from the app.
+You can delete an InvoiceFlow account from the app.
 
-1. Open Oralis, open Settings, open Account, and choose Delete account. Confirm it. This removes the email and the minutes saved with that account from the server. The phone you are using keeps the minutes it already has. A new phone will not receive them. Guides on the phone are not deleted. Call setup messages already stored are not deleted.
-2. If you cannot open the app, email developer@aqyrix.com from the account email with the subject “Oralis account deletion”.
+1. Open InvoiceFlow, open Settings, open Account, and choose Delete account. Confirm it. This removes the account and its cloud backup. Invoices already stored on the phone stay on the phone.
+2. If you cannot open the app, email developer@aqyrix.com from the account email with the subject “InvoiceFlow account deletion”.
 
 The full policy is in [index.html](index.html).
